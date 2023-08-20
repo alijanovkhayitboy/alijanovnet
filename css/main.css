@@ -205,7 +205,7 @@
   width: 100%;
   padding: 10px 30px;
   background-image: url(../img/sect1back.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
   background-size: contain;
   height: auto;
