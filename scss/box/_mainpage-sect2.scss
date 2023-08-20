@@ -2,7 +2,10 @@
     
     width: 100%;
     padding: 10px 30px;
-    background-color: #007EC5;
+    background-image: url(../img/sect1back.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     height: auto;
     display: flex;
     align-items: center;
@@ -32,10 +35,10 @@
     height: 230px;
     padding: 10px;
     border-radius: 10px;
-    position: relative;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+    box-shadow: 0px 9px 13px 5px rgba(34, 60, 80, 0.2);
     
     h3{
         text-align: center;
@@ -48,6 +51,18 @@
 
 .course-1{
     background-image: url(../img/course-1.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.course-3{
+    background-image: url(../img/python.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.course-2{
+    background-image: url(../img/cover.jpg);
     background-position: center;
     background-size: cover;
 }
