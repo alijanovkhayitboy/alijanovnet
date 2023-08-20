@@ -216,9 +216,10 @@
 }
 
 .sect2-title {
-  color: #fff;
+  color: rgb(0, 166, 255);
   font-size: 35px;
   text-align: center;
+  margin: 20px;
 }
 
 .course-cont {
@@ -235,51 +236,50 @@
   border-radius: 10px;
   display: flex;
   align-items: flex-end;
-  justify-content: flex-end;
-  box-shadow: 0px 9px 13px 5px rgba(34, 60, 80, 0.2);
+  justify-content: center;
 }
 .course h3 {
   text-align: center;
-  color: #fff;
+  color: rgb(0, 200, 255);
 }
 
 .course-1 {
-  background-image: url(../img/course-1.png);
+  background-image: url(../img/course1.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .course-3 {
-  background-image: url(../img/python.jpg);
+  background-image: url(../img/course2.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .course-4 {
-  background-image: url(../img/course4.png);
+  background-image: url(../img/course3.svg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .course-5 {
-  background-image: url(../img/course5.png);
+  background-image: url(../img/course4.svg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .course-6 {
-  background-image: url(../img/course6.png);
+  background-image: url(../img/course5.svg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .course-2 {
-  background-image: url(../img/cover.jpg);
+  background-image: url(../img/);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
