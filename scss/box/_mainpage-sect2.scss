@@ -30,6 +30,26 @@
 .course{
     width: 300px;
     height: 230px;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+    h3{
+        text-align: center;
+        color: #fff;
+        position: relative;
+        bottom: 0;
+
+    }
+}
+
+.course-1{
+    background-image: url(../img/course-1.png);
+    background-position: center;
+    background-size: cover;
 }
 
 
