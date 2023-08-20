@@ -249,36 +249,42 @@
   background-image: url(../img/course-1.png);
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .course-3 {
   background-image: url(../img/python.jpg);
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .course-4 {
   background-image: url(../img/course4.png);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .course-5 {
   background-image: url(../img/course5.png);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .course-6 {
   background-image: url(../img/course6.png);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .course-2 {
   background-image: url(../img/cover.jpg);
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 990px) {
