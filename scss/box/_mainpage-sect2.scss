@@ -32,23 +32,6 @@
 
 }
 
-.course{
-    width: 300px;
-    height: 230px;
-    padding: 10px;
-    border-radius: 10px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    // box-shadow: 0px 9px 13px 5px rgba(34, 60, 80, 0.2);
-    
-    h3{
-        text-align: center;
-        color: rgb(0, 200, 255);
-        
-
-    }
-}
 
 .course-4{
     background-image: url(../img/course1.svg);
@@ -92,6 +75,23 @@
     background-repeat: no-repeat;
 }
 
+.course{
+    width: 300px;
+    height: 230px;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    // box-shadow: 0px 9px 13px 5px rgba(34, 60, 80, 0.2);
+    
+    h3{
+        text-align: center;
+        color: rgb(0, 200, 255);
+        
+
+    }
+}
 
 @media (max-width:990px){
     .sect2{
